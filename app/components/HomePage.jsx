@@ -16,7 +16,7 @@ const HomePage = () => {
             <hr/>
 
             <HeaderModification />
-            
+            <footer className="my-12"></footer>
         </div>
     );
 };
